@@ -1,0 +1,9 @@
+{
+  "name": "@ucase.io/nuxt-plyr",
+  "version": "1.0.0",
+  "description": "Nuxt.js module for Plyr",
+  "main": "lib/module.js",
+  "repository": "git@github.com:ucase-io/nuxt-plyr.git",
+  "author": "Zorca Orcinus <vs@zorca.org>",
+  "license": "MIT"
+}
