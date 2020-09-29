@@ -78,7 +78,7 @@
   height: 0;
   width: 100%;
 
-  iframe {
+  iframe, video {
     left: 0;
     top: 0;
     height: 100%;
