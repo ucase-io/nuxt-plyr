@@ -34,12 +34,10 @@
       width: {
         type: String,
         require: false,
-        default: '100%',
       },
       height: {
         type: String,
         require: false,
-        default: '100%',
       },
       poster: {
         type: String,
