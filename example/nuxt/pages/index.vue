@@ -1,5 +1,5 @@
 <template>
-  <ucase-plyr>
+  <nuxt-plyr>
     <div class="plyr__video-embed">
       <iframe
         src="https://www.youtube.com/embed/bTqVqk7FSmY?iv_load_policy=3&modestbranding=1&playsinline=1&showinfo=0&rel=0&enablejsapi=1"
@@ -9,7 +9,7 @@
       >
       </iframe>
     </div>
-  </ucase-plyr>
+  </nuxt-plyr>
 </template>
 
 <script>

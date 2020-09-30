@@ -8,7 +8,7 @@
   import Plyr from 'plyr'
 
   export default {
-    name: 'UcasePlyr',
+    name: 'NuxtPlyr',
     props: {
       /** Options object for plyr config. **/
       options: {
