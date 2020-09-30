@@ -5,5 +5,8 @@
   "main": "lib/module.js",
   "repository": "git@github.com:ucase-io/nuxt-plyr.git",
   "author": "Zorca Orcinus <vs@zorca.org>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "plyr": "^3.6.2"
+  }
 }
